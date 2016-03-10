@@ -14,6 +14,7 @@
 		4E5E84A81C92079300652053 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E5E84A61C92079300652053 /* LaunchScreen.storyboard */; };
 		4E5E84B31C92079300652053 /* Demo2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5E84B21C92079300652053 /* Demo2Tests.swift */; };
 		4E5E84BE1C92079300652053 /* Demo2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5E84BD1C92079300652053 /* Demo2UITests.swift */; };
+		4E5E84CC1C92094A00652053 /* File1Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E5E84CB1C92094A00652053 /* File1Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4E5E84B91C92079300652053 /* Demo2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E5E84BD1C92079300652053 /* Demo2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demo2UITests.swift; sourceTree = "<group>"; };
 		4E5E84BF1C92079300652053 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E5E84CB1C92094A00652053 /* File1Test.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File1Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				4E5E849D1C92079300652053 /* AppDelegate.swift */,
 				4E5E849F1C92079300652053 /* ViewController.swift */,
+				4E5E84CB1C92094A00652053 /* File1Test.swift */,
 				4E5E84A11C92079300652053 /* Main.storyboard */,
 				4E5E84A41C92079300652053 /* Assets.xcassets */,
 				4E5E84A61C92079300652053 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E5E84CC1C92094A00652053 /* File1Test.swift in Sources */,
 				4E5E84A01C92079300652053 /* ViewController.swift in Sources */,
 				4E5E849E1C92079300652053 /* AppDelegate.swift in Sources */,
 			);
