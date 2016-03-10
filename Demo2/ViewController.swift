@@ -6,6 +6,8 @@
 //  Copyright © 2016 Gary. All rights reserved.
 //
 
+//THis is a comment demo 2
+
 import UIKit
 
 class ViewController: UIViewController {
